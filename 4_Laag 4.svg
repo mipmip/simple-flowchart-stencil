@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="47.326157mm"
+   height="43.21302mm"
+   viewBox="0 0 47.326155 43.213021"
+   version="1.1"
+   id="svg1128"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1125">
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path26054" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata1471">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:source>https://openclipart.org/detail/176418/flowchart-by-suzana_k-176418</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer4"
+     style="display:inline"
+     transform="translate(1.7470739e-5,-70.218344)">
+    <g
+       id="g1046"
+       transform="matrix(0.264583,0,0,0.264583,-20.51,-85.532)">
+      <rect
+         id="rect4103-1-28-0-1"
+         style="color:#000000;display:inline;fill:#e8fabc;fill-opacity:1;stroke:#597a09;stroke-width:2.0963;stroke-linecap:square"
+         rx="18.570999"
+         ry="12.054"
+         height="56.25"
+         width="147.14"
+         y="589.71161"
+         x="78.566292" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#3b3b3b;fill-opacity:1;stroke:none;stroke-width:0.689016"
+         x="126.01866"
+         y="624.117"
+         id="text20005"><tspan
+           id="tspan20003"
+           x="126.01866"
+           y="624.117"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3b3b3b;fill-opacity:1;stroke-width:0.689016">Task</tspan></text>
+      <path
+         id="path26862"
+         style="display:inline;fill:none;stroke:#c44d58;stroke-width:2.098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#TriangleOutL)"
+         d="m 142.66617,649.83282 v 91.85985 l 101.80246,-0.0376" />
+    </g>
+  </g>
+</svg>
