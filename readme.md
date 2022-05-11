@@ -1,7 +1,7 @@
 
 # Simple Flowchart
 
-Minimal flowchart stencil for non techies. Based on chart from openclipart
+Minimal flowchart stencil for non techies. Based on chart from OpenClipart. Arrows are not visible.
 
 Author: Pim Snel
 
